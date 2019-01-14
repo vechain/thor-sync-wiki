@@ -5,7 +5,7 @@ It's two independent projects, therefore, once the wallets are importing to the 
 ## What's the different between new Sync and old Sync ?
 After releasing the old version of sync, we realized that it hangs back numerous users because you need to wait for synchronize the blockchain data every time. This waiting greatly reduces the user's experience and loses patience. Moreover, users also need to know certain knowledge of the blockchain before using Sync. This brings a certain threshold and inconvenient to users. In order to make more users understand and experience blockchain easily, this gives us an idea of the new Sync.
 
-The New Sync is providing a seamless experience for end-users and developers. it makes developers and users focus on the content itself, rather than understanding how blockchain works. For example, users no longer need to synchronize block data, open and use; simplify the transaction process... and more.
+The New Sync is providing a seamless experience for end-users and developers. it makes developers and users focus on the content itself, rather than understanding how blockchain works. For example, users no longer need to synchronize block data, just open and use it; simplify the transaction process... and more.
 
 ## I already installed the old sync and generated wallets , How can I import the wallets to new Sync ?
 1. On old Sync and follow the step  [Export Wallet](https://github.com/vechain/thor-sync/wiki/Account#export-keystore-or-private-key) 
@@ -38,3 +38,6 @@ On other hands, the certificate of agreement is a certificate that you agree to 
 2. Open Sync
 3. Follow the step to [add custom node](https://github.com/vechain/thor-sync.electron/wiki/Browse-DApp&Web#add--custom-node)
 
+## How to open developer tools?
+1. At upper right, Click <img src="Images/menu.png"  height = "20px" align=center />
+2. Click"**Toggle Developer Tools**"

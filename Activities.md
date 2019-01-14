@@ -31,3 +31,7 @@ There are 4 status of transaction :
     2. Click the transaction which you would like to overview
     3. Click "<img src="Images/activity-insight.png"  height = "20px" align=center />DappName"
 
+## Reveal Wallet 
+   1. At top right ,click  <img src="Images/activity.png"  height = "20px" align=center /> or <img src="Images/sending.png"  height = "20px" align=center />
+   2. Click the transaction which you would like to overview
+   3. Click Wallet's name 

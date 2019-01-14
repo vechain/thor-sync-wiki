@@ -15,8 +15,19 @@
 
   [8.FAQ](https://github.com/vechain/thor-sync.electron/wiki/FAQ)
 
+  [9.Contributing](https://github.com/vechain/thor-sync.electron/wiki/Contributing)
+
+
 
 ## Resource:
 - [Connex](https://github.com/vechain/connex)
 - [Connex API](https://vechain.github.io/connex/#/)
+
+## Demo:
+- [Energy Station(Testnet Only)](https://libotony.github.io/energy-station/) - An application allows you to exchange energy(VeThor) and VET on VeChain Thor blockchain.
+  
+- [Insight](https://vechain.github.io/insight/#/) - A serverless VeChain explorer. It allows you to explore and search for blocks, transactions and accounts.
+  
+- [Inspector](https://vechain.github.io/inspector/#/contracts) - A tool that allows you to deploy and interact with the contract.
+
 

@@ -2,9 +2,10 @@ Sync is providing a seamless experience for users and developers ,it's easy to c
 
 ##  Network's Name
  There is a tag shown before the node's name and network status . it show the network  
-*   **MAINNET**  /  **TESTNET** / **DEVNET** / **UNKNOWN**
+*   **MAIN**  /  **TEST** / **SOLO** / **UNKNOWN**
 
->DEVNET is [standalone mode](https://github.com/vechain/thor#sub-commands)
+>SOLO is [standalone mode](https://github.com/vechain/thor#sub-commands)
+
 >UNKNOWN is a network which is not official listed 
 
 ## Network Status 
@@ -15,36 +16,39 @@ Sync is providing a seamless experience for users and developers ,it's easy to c
 
 ## Choose the Network and Node 
 ### Connect to Built-in Node
-1. Click on the network ,at left of the address bar(it shown the network MAINNET /TESTNET /DEVNET/UNKNOWN)
+1. Click on the network ,at left of the address bar(it shown the network MAIN/TEST/SOLO/UNKNOWN)
 ![addressBa](Images/addressBar.png)
 
 2. Choose the network and node you would like to connect
 
 ### Add  Custom Node 
-1. At top right in home page, click  <img src="Images/settings.png" width = "16px" height = "16px" align=center />
-2. Click <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
-3. Input the name which can help you to identity the node 
-4. Input the URL with port (ex:http://localhost:8669)
-5. Wait for a sec ,it will automatically identity the network name (MAINNET /TESTNET /DEVNET /UNKNOWN) and add the node to the list.
-6. At the left of the address bar,clock on the network, 
-7. Choose the network and node you would like to connect
+1. At top right, click  <img src="Images/menu.png" width = "16px" height = "16px" align=center />
+2. Click **Settings** 
+3. Click <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
+4. Input the name which can help you to identity the node 
+5. Input the URL with port (ex:http://localhost:8669)
+6. Wait for a sec ,it will automatically identity the network name (MAIN/TEST/SOLO/UNKNOWN) and add the node to the list.
+7. At the left of the address bar,clock on the network, 
+8. Choose the network and node you would like to connect
     
 
     
 ### Edit  Custom Node's Name
     
-1. At top right in home page, click  <img src="Images/settings.png" width = "16px" height = "16px" align=center />
-2. Click <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
-3. Click **EDIT** 
-4. Change the node's name
-5. Click **SAVE**
+1. At top right, click  <img src="Images/menu.png" width = "16px" height = "16px" align=center />
+2. Click **Settings** 
+3. Click <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
+4. Click **EDIT** 
+5. Change the node's name
+6. Click **SAVE**
     
 ### Delete  Custom Node
     
-1. At top right in home page, click <img src="Images/settings.png" width = "16px" height = "16px" align=center />
-2. Click  <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
-3. Click **EDIT** 
-4. Click **DELETE**
+1. At top right, click  <img src="Images/menu.png" width = "16px" height = "16px" align=center />
+2. Click **Settings** 
+3. Click  <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
+4. Click **EDIT** 
+5. Click **DELETE**
 
 ## Go to DApps or Websites
 1. At the top center, input the website/DAppS name or URL in the address bar
