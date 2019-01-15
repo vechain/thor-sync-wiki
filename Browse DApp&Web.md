@@ -27,7 +27,7 @@ Sync is providing a seamless experience for users and developers ,it's easy to c
 3. Click <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
 4. Input the name which can help you to identity the node 
 5. Input the URL with port (ex:http://localhost:8669)
-6. Wait for a sec ,it will automatically identity the network name (MAIN/TEST/SOLO/UNKNOWN) and add the node to the list.
+6. Wait for a sec ,it will automatically identity the network name (MAIN/TEST/SOLO/UNKNOWN) and add the node to the list
 7. At the left of the address bar,clock on the network, 
 8. Choose the network and node you would like to connect
     

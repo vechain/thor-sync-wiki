@@ -7,7 +7,7 @@
 ### Install Sync on Mac
 1. [Download the installation file](https://github.com/vechain/thor-sync.electron/releases)
 2. Open the file called "Sync.dmg"
-3. Drag Sync to the application folder 
+3. **Drag** Sync to the application folder 
 
 ### Install Sync on Linux
 1. [Download the installation file](https://github.com/vechain/thor-sync.electron/releases)
