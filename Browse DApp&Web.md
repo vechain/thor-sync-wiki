@@ -24,7 +24,7 @@ Sync is providing a seamless experience for users and developers ,it's easy to c
 ### Add  Custom Node 
 1. At top right, click  <img src="Images/menu.png" width = "16px" height = "16px" align=center />
 2. Click **Settings** 
-3. Click <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
+3. Click **Add Node** on Nodes section
 4. Input the name which can help you to identity the node 
 5. Input the URL with port (ex:http://localhost:8669)
 6. Wait for a sec ,it will automatically identity the network name (MAIN/TEST/SOLO/UNKNOWN) and add the node to the list
@@ -37,7 +37,7 @@ Sync is providing a seamless experience for users and developers ,it's easy to c
     
 1. At top right, click  <img src="Images/menu.png" width = "16px" height = "16px" align=center />
 2. Click **Settings** 
-3. Click <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
+3. Click **Add Node** on Nodes section
 4. Click **EDIT** 
 5. Change the node's name
 6. Click **SAVE**
@@ -46,7 +46,7 @@ Sync is providing a seamless experience for users and developers ,it's easy to c
     
 1. At top right, click  <img src="Images/menu.png" width = "16px" height = "16px" align=center />
 2. Click **Settings** 
-3. Click  <img src="Images/add.png" width = "16px" height = "16px" align=center /> on Nodes section
+3. Click  **Add Node** on Nodes section
 4. Click **EDIT** 
 5. Click **DELETE**
 

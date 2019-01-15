@@ -1,4 +1,4 @@
-Whether you've found an issue in with sync , here's how to report an issue.Thanks a ton for helping make Sync better!
+When you've found an issue in sync, here's how to report an issue. Thanks a ton for helping make Sync better!
 
 ## Issue Tracker on GitHub 
 1. At top right in home page, click setting
