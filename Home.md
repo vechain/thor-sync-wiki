@@ -9,7 +9,7 @@
 
   1. [Activities](https://github.com/vechain/thor-sync.electron/wiki/Activities)
 
-  1. [Update](https://github.com/vechain/thor-sync.electron/wiki/Update)
+  1. [Settings](https://github.com/vechain/thor-sync.electron/wiki/Settings)
 
   1. [Report an Issue](https://github.com/vechain/thor-sync.electron/wiki/Report-Issue)
 
