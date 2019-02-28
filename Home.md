@@ -19,16 +19,18 @@
 
 
 
-## Resource:
+## Resources:
 - [Connex](https://github.com/vechain/connex)
 - [Connex API](https://connex.vecha.in/#/)
 - [Connex Implementation Test](https://connex-impl-test.vecha.in/)
 
-## Demo:
+## Demos:
 - [Energy Station(Testnet Only)](https://energy.outofgas.io/) - An application allows you to exchange energy(VeThor) and VET on VeChain Thor blockchain.
   
 - [Insight](https://insight.vecha.in/#/) - A serverless VeChain explorer. It allows you to explore and search for blocks, transactions and accounts.
   
 - [Inspector](https://inspector.vecha.in/#/contracts) - A tool that allows you to deploy and interact with the contract.
+
+- [Token Transfer](https://laalaguer.github.io/vechain-token-transfer/) - A tools allows you to transfer token
 
 

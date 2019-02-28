@@ -20,8 +20,10 @@ The New Sync is providing a seamless experience for end-users and developers. it
 ## Does new sync has a folder store the keystore file  ?
 No, only if user backup(export)  the wallet will generate the keystore file. 
 
-**Please see** [Export wallet](https://github.com/vechain/thor-sync.electron/wiki/Wallet#export-keystore)
+Please check [Export wallet](https://github.com/vechain/thor-sync.electron/wiki/Wallet#export-keystore)
 
+## How to get test token ?
+You can visit [Faucet](https://faucet.vecha.in/)
 
 
 # Technical 
@@ -39,5 +41,11 @@ On other hands, the certificate of agreement is a certificate that you agree to 
 3. Follow the step to [add custom node](https://github.com/vechain/thor-sync.electron/wiki/Browse-DApp&Web#add--custom-node)
 
 ## How to open developer tools?
+### Main Processor(ONLY Available in Dev Mode)
+1. Move your cursor to tab area
+2. Right click the mouse
+3. Click "**Inspect Element**"
+
+### Web Content
 1. At upper right, Click <img src="Images/menu.png"  height = "20px" align=center />
 2. Click"**Toggle Developer Tools**"
