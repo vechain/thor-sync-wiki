@@ -41,9 +41,5 @@ On other hands, the certificate of agreement is a certificate that you agree to 
 3. Follow the step to [add custom node](https://github.com/vechain/thor-sync.electron/wiki/Browse-DApp&Web#add--custom-node)
 
 ## How to open developer tools?
-1. At upper right, Click <img src="Images/menu.png"  height = "20px" align=center />
-2. Click"**Toggle Developer Tools**"
-
-### Web Content (ONLY Available in Dev Mode)
-1. Right click the mouse to web area
-3. Click "**Inspect Element**"
+1. Right click the mouse 
+2. Click "**Inspect Element**"
