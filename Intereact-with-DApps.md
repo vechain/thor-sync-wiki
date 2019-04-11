@@ -22,3 +22,10 @@ The certificate is a message signing based mechanism which can easily provide yo
 3. Choose a wallet to sign the certificate
 4. Input wallet's password
 5. Click **SIGN**
+
+## Keep wallet unlocked
+When you checked the "Keep unlocked in 5 minutes" feature, the wallet remains unlocked until the last signed transaction/certificates time plus 5 minutes. 
+If you wish to lock the wallet again but the wallet still in the unlocked period, you can close  Sync to enforce the wallet lock again. 
+
+> locked period means that you need to enter your wallet's password to sign the transaction/certificates. 
+> unlocked period: you can sign the transaction/certificate without entering the wallet's password.
