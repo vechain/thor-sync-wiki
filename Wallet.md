@@ -67,7 +67,7 @@ You can change your wallet's name and password after wallet's password verified.
 
 ### Certificate
 - Date : Show the date which you signed the transaction.
-- status : Always <img src="Images/confirmed.png"  height = "20px" align=center /> (Only signed certificate will be record.)
+- Status : Always <img src="Images/confirmed.png"  height = "20px" align=center /> (Only signed certificate will be record.)
 - Type : Identification / Agreement 
 - Link : Application URL.
 - Action : Show the signed content.
