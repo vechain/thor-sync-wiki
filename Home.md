@@ -2,6 +2,8 @@
   1. [Download & Install](https://github.com/vechain/thor-sync.electron/wiki/Download-&-Install)
 
   1. [Wallet](https://github.com/vechain/thor-sync.electron/wiki/Wallet)
+   
+  1. [Import Ledger](https://github.com/vechain/thor-sync.electron/wiki/Import-Ledger)
   
   1. [Browse the DApps/Web](https://github.com/vechain/thor-sync.electron/wiki/Browse-DApp&Web)
 

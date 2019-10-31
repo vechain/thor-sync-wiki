@@ -8,20 +8,40 @@ When you are going to interact with a DApp,  Once the DApp sends the signing req
 ## Signing a Transaction
 On the left side, it shows the transaction summary; number of clauses; the description of each clause. On the right side, you can select which wallet is going to sign the transaction and also transaction priority
 
+### Local Wallets
 1. Review the content 
-2. Choose a wallet to sign the transaction
-3. Modify the priority if needed 
-4. Input wallet's password
-5. Click **SIGN**
+2. Choose the Wallet type `Local`
+3. Choose a wallet to sign the transaction
+4. Modify the priority if needed 
+5. Input wallet's password
+6. Click **SIGN**
+
+### Ledger
+1. Review the content 
+2. Choose the Wallet type `Device Name`
+3. Choose a wallet to sign the transaction
+4. Modify the priority if needed 
+5. Connect your device and follow the steps
+6. Confirm the transaction on your device
 
 ## Signing a Certificate
 The certificate is a message signing based mechanism which can easily provide your identification or you to agree to your terms or agreements to the DApp.
 
+### Local Wallets
 1. Check the type of certificate(<img src="Images/cer-identification.png"  height = "20px" align=center /> / <img src="Images/cer-agreement.png"  height = "20px" align=center />)
 2. Review the content 
-3. Choose a wallet to sign the certificate
-4. Input wallet's password
-5. Click **SIGN**
+3. Choose the Wallet type `Local`
+4. Choose a wallet to sign the certificate
+5. Input wallet's password
+6. Click **SIGN**
+
+### Ledger
+1. Check the type of certificate(<img src="Images/cer-identification.png"  height = "20px" align=center /> / <img src="Images/cer-agreement.png"  height = "20px" align=center />)
+2. Review the content 
+3. Choose the Wallet type `LedgerName`
+4. Choose a wallet to sign the certificate
+5. Connect your device and follow the steps
+6. Confirm the transaction on your device
 
 ## Keep wallet unlocked
 When you checked the "Keep unlocked in 5 minutes" feature, the wallet remains unlocked until the last signed transaction/certificates time plus 5 minutes. 
