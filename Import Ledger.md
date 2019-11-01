@@ -10,7 +10,7 @@
 
 ## Install VeChain Ledger app 
 
-> VeChain Ledger app version ≥1.0.4 supported Sync
+> VeChain Ledger app version ≥1.0.5 supported Sync
 
 1. Open the Manager in Ledger Live.
 Connect and unlock your Ledger Nano S.
